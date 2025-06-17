@@ -1,2 +1,19 @@
 # SystemUtilities
-A collection of useful Python scripts and tools designed to enhance system management and troubleshooting across multiple operating systems, including Windows and Linux. This repository includes utilities for network diagnostics, system information gathering, and more, with a focus on ease of use and deployment.
+
+このプロジェクトは、WindowsとLinuxの両方を含む**複数のオペレーティングシステム**において、システム管理とトラブルシューティングを強化するために設計された、便利なPythonスクリプトとツールのコレクションです。
+
+本リポジトリには、以下の目的のためのユーティリティが含まれています。
+
+* **ネットワーク診断**
+* **システム情報の収集**
+* その他、様々なシステム関連タスク
+
+私たちは、これらのツールが「**使いやすさ**」と「**デプロイ（展開）の容易さ**」に重点を置いていることを強調します。
+
+---
+
+## 主な特徴
+
+* クロスプラットフォーム対応 (Windows & Linux)
+* 実用的なスクリプト群
+* 簡単な使用と展開
